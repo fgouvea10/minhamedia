@@ -20,7 +20,7 @@ export const GlobalStyle = createGlobalStyle`
 
   body, input, textarea, button {
     font: 400 1rem 'Epilogue', sans-serif;
-    letter-spacing: 129%;
+    letter-spacing: -0.055em;
   }
 
   a {
